@@ -19,3 +19,5 @@ Results after 40 epochs of training:
 
 ** 1000 / (preprocess + inference + postprocess speed in ms)
 
+
+![alt text](https://github.com/katrinmisel/HIRAC/blob/main/images/det_test.png?raw=true)
