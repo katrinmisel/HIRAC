@@ -21,3 +21,5 @@ Results after 40 epochs of training:
 
 
 ![alt text](https://github.com/katrinmisel/HIRAC/blob/main/images/det_test.png?raw=true)
+
+[![DOI](https://zenodo.org/badge/704862418.svg)](https://zenodo.org/doi/10.5281/zenodo.10017033)
